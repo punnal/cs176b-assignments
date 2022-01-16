@@ -80,7 +80,7 @@ Use default options and uncheck "Launch Xming" at the end.
 Open your terminal (use git bash if using Windows) and `cd`
 to wherever you want to keep files for this course on your computer.  
 
-Run `git clone https://github.com/agupta13/cs176b-assignments.git` to
+Run `git clone https://github.com/SNL-UCSB/cs176b-assignments.git` to
 download the course files from GitHub.
 
 `cd cs176b-assignments/` to enter the course assignment directory.
